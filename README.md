@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soumyajitdas1997
+- 👋 Hi, I’m @Soumyajit Das
 - 👀 I’m interested in Core java,DBMS, SQL
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
